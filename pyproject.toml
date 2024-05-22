@@ -1,0 +1,14 @@
+[project]
+name = "sd-latent-upscaler"
+description = "Upscaling stable diffusion latents using a small neural network."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/city96/SD-Latent-Upscaler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "SD-Latent-Upscaler"
+Icon = ""
